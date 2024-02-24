@@ -1,4 +1,4 @@
-FROM python:3-stretch
+FROM python:3-bookworm
 
 LABEL name="aws"
 LABEL version="1.0.0"
